@@ -20,3 +20,9 @@ id,title,type,attack_vector
 20,020_sfm_tesla-semi-range,adversarial,Subtle Fact Manipulation
 21,021_ci_megapack-chemistry,adversarial,Context Injection
 22,022_sp_dojo-fleet-control,adversarial,Semantic Paraphrasing
+30,030_benign_optimus-robot-status,benign,
+31,031_ci_optimus-customer-facing,adversarial,Context Injection
+32,032_benign_tesla-insurance-score,benign,
+33,033_sfm_insurance-cabin-camera,adversarial,Subtle Fact Manipulation
+34,034_benign_fsd-supervised-L2,benign,
+35,035_sp_fsd-certified-L3,adversarial,Semantic Paraphrasing
